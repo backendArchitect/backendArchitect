@@ -15,7 +15,7 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 
 - 👯 I’m looking to collaborate on **Projects of Golang/VueJS**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/codeArtisanry/](https://github.com/codeArtisanry/)
+- 👨‍💻 Some of my projects are available at [https://github.com/codeArtisanry/](https://github.com/backendArchitect/)
 
 - 📝 I regularly write articles on [https://vatsalchauhan.medium.com/](https://vatsalchauhan.medium.com/)
 
