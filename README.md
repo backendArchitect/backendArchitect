@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vatsal.</h1>
 <h3 align="center">A passionate Software(Full-Stack) Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeArtisanry&label=Profile%20views&color=0e75b6&style=flat" alt="codeArtisanry" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=backendArchitect&label=Profile%20views&color=0e75b6&style=flat" alt="backendArchitect" /> </p>
 <hr/>
 I am passionate about blending my technical skills with my creative interests to bring innovative and visually appealing solutions to life. My background in computer science and design has equipped me with a unique set of skills that allows me to approach problem-solving from both analytical and artistic perspectives. </br>
 In my work as a software developer, I enjoy creating clean, efficient, and scalable code that solves complex problems. I am always looking for ways to improve my coding skills and keep up-to-date with the latest technologies and best practices in the industry. In my free time, I enjoy attending art exhibitions, exploring new technologies, contributing to open-source projects and binge watching also. <br> I believe that the intersection of art and technology holds endless possibilities, and I am excited to continue exploring this space in my professional and personal pursuits.
 <hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeArtisanry&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="codeArtisanry" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=backendArchitect&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="backendArchitect" /></a> </p>
 <hr/>
 
 - 🔭 I’m currently working on **Learning New Stuffs**
@@ -34,14 +34,14 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 <hr/>
 
 ### Activity Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeArtisanry&" alt="codeArtisanry" /> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=backendArchitect&" alt="backendArchitect" /> 
 
 </p>
 
 <a href="https://app.daily.dev/vatslchauhan"><img src="https://api.daily.dev/devcards/v2/wqMFRMf2ZIbwtKS3A51iL.png?r=r8i&type=wide" width="498" alt="Vatsal Chauhan's Dev Card"/></a>
 
 <br/>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeArtisanry&show_icons=true&locale=en" alt="codeArtisanry" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=backendArchitect&show_icons=true&locale=en" alt="backendArchitect" /></p> -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -55,7 +55,7 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 
 <hr>
 
-[![Vatsal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeArtisanry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codeArtisanry/github-readme-activity-graph)
+[![Vatsal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=backendArchitect&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/backendArchitect/github-readme-activity-graph)
 
 <hr>
 
