@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vatsal.</h1>
-<h3 align="center">A passionate Software(Full-Stack) Developer from India</h3>
-
+<h3 align="center">Backend & Data Engineer from India 🇮🇳</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=backendArchitect&label=Profile%20views&color=0e75b6&style=flat" alt="backendArchitect" /> </p>
 <hr/>
-I am passionate about blending my technical skills with my creative interests to bring innovative and visually appealing solutions to life. My background in computer science and design has equipped me with a unique set of skills that allows me to approach problem-solving from both analytical and artistic perspectives. </br>
-In my work as a software developer, I enjoy creating clean, efficient, and scalable code that solves complex problems. I am always looking for ways to improve my coding skills and keep up-to-date with the latest technologies and best practices in the industry. In my free time, I enjoy attending art exhibitions, exploring new technologies, contributing to open-source projects and binge watching also. <br> I believe that the intersection of art and technology holds endless possibilities, and I am excited to continue exploring this space in my professional and personal pursuits.
-<hr/>
+I'm a backend/data engineer building and scaling systems for US-based clients at Kingbee. My day-to-day lives somewhere between PostgreSQL queries, Firebase backends, Go services, and the kind of debugging that ends in journalctl, lm_sensors, or a systemd unit file. I care a lot about clean schemas, observable systems, and pipelines that don't surprise you at 2 AM.
+When I'm not shipping, I'm tinkering on Arch Linux + KDE Plasma — udev rules, TLP configs, fan curves, font stacks, the works. I'm also into PC hardware, gaming, and follow Indian markets closely (with a soft spot for the renewable energy sector). I believe the best engineers stay curious across the stack — from electrons on a motherboard to migrations across a billion rows. </br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=backendArchitect&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="backendArchitect" /></a> </p>
+
 <hr/>
 
-- 🔭 I’m currently working on **Learning New Stuffs**
+- 🔭🔭 I'm currently working on **data pipelines, Firebase + PostgreSQL backends, and Go services**
+  
+- 🌱 I'm currently learning data engineering at **scale, system internals, and distributed tracing**
 
-- 🌱 I’m currently learning **Backend Frameworks and Dev-Ops stuff**
-
-- 👯 I’m looking to collaborate on **Projects of Golang/VueJS**
+- 👯 I’m looking to collaborate on **Go / Python / data engineering projects**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/backendArchitect/](https://github.com/backendArchitect/)
 
@@ -21,7 +21,7 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 
 - :izakaya_lantern: My Reddit Account Link [https://www.reddit.com/user/R-Z0R0/](https://www.reddit.com/user/R-Z0R0/)
 
-- ⚡ Fun fact **Funny,Anime-addict,EDM,Binge Watcher,Foodie**
+- ⚡ Fun fact **Anime-addict, EDM lover, Binge Watcher, Foodie, Arch user (btw)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
