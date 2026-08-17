@@ -5,7 +5,7 @@
 I'm a backend/data engineer building and scaling systems for US-based clients at Kingbee. My day-to-day lives somewhere between PostgreSQL queries, Firebase backends, Go services, and the kind of debugging that ends in journalctl, lm_sensors, or a systemd unit file. I care a lot about clean schemas, observable systems, and pipelines that don't surprise you at 2 AM.
 When I'm not shipping, I'm tinkering on Arch Linux + KDE Plasma — udev rules, TLP configs, fan curves, font stacks, the works. I'm also into PC hardware, gaming, and follow Indian markets closely (with a soft spot for the renewable energy sector). I believe the best engineers stay curious across the stack — from electrons on a motherboard to migrations across a billion rows. </br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=backendArchitect&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="backendArchitect" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=backendArchitect&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="backendArchitect" /></a> </p>
 
 <hr/>
 
